@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "name": "Color",
+        "slug": "color",
+        "enable_archives": false,
+        "sort_by": "custom_ordering",
+        "terms": [
+            {
+                "id": 1,
+                "attribute_id": 1,
+                "name": "#6085a5",
+                "slug": "black",
+                "description": null,
+                "count": 0
+            },
+            {
+                "id": 2,
+                "attribute_id": 1,
+                "name": "#11426b",
+                "slug": "blue",
+                "description": null,
+                "count": 0
+            },
+            {
+                "id": 3,
+                "attribute_id": 1,
+                "name": "#b19970",
+                "slug": "brown",
+                "description": null,
+                "count": 0
+            },
+            {
+                "id": 4,
+                "attribute_id": 1,
+                "name": "#81d742",
+                "slug": "green",
+                "description": null,
+                "count": 0
+            },
+            {
+                "id": 5,
+                "attribute_id": 1,
+                "name": "#eded65",
+                "slug": "yellow",
+                "description": null,
+                "count": 0
+            },
+            {
+                "id": 6,
+                "attribute_id": 1,
+                "name": "#6085a5",
+                "slug": "indigo",
+                "description": null,
+                "count": 0
+            },
+            {
+                "id": 7,
+                "attribute_id": 1,
+                "name": "#ab6e6e",
+                "slug": "red",
+                "description": null,
+                "count": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Size",
+        "slug": "size",
+        "enable_archives": false,
+        "sort_by": "custom_ordering",
+        "terms": [
+            {
+                "id": 8,
+                "attribute_id": 2,
+                "name": "XL",
+                "slug": "xl",
+                "description": null,
+                "count": 0
+            },
+            {
+                "id": 9,
+                "attribute_id": 2,
+                "name": "XS",
+                "slug": "xs",
+                "description": null,
+                "count": 0
+            },
+            {
+                "id": 10,
+                "attribute_id": 2,
+                "name": "L",
+                "slug": "l",
+                "description": null,
+                "count": 0
+            },
+            {
+                "id": 11,
+                "attribute_id": 2,
+                "name": "M",
+                "slug": "m",
+                "description": null,
+                "count": 0
+            },
+            {
+                "id": 12,
+                "attribute_id": 2,
+                "name": "S",
+                "slug": "s",
+                "description": null,
+                "count": 0
+            }
+        ]
+    }
+]

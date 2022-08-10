@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "west zone",
+        "enabled": 1,
+        "created_at": null,
+        "updated_at": null,
+        "shipping_zone_methods": [
+            {
+                "id": 1,
+                "shipping_zone_id": 1,
+                "name": "Free shipping",
+                "type": "free",
+                "tax_status": "taxable",
+                "cost": "0.00",
+                "free_shipping_requirement": null,
+                "minimum_order_amount": null,
+                "enabled": true,
+                "description": null,
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 2,
+                "shipping_zone_id": 1,
+                "name": "Flat rate",
+                "type": "flat",
+                "tax_status": "taxable",
+                "cost": "10.00",
+                "free_shipping_requirement": null,
+                "minimum_order_amount": null,
+                "enabled": true,
+                "description": null,
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 3,
+                "shipping_zone_id": 1,
+                "name": "Local pickup",
+                "type": "local",
+                "tax_status": "taxable",
+                "cost": "0.00",
+                "free_shipping_requirement": null,
+                "minimum_order_amount": null,
+                "enabled": true,
+                "description": null,
+                "created_at": null,
+                "updated_at": null
+            }
+        ],
+        "shipping_locations": [
+            {
+                "id": 1,
+                "shipping_zone_id": 1,
+                "code": "NA:US:CA",
+                "name": "California",
+                "type": "state",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    }
+]

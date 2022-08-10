@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "payment_method": "paypal",
+        "status": "processing",
+        "amount": 50.00,
+        "user": {
+            "first_name": "Alex",
+            "last_name": "Doe",
+            "vendor": {
+                "paypal_email": "alex@gmail.com"
+            }
+        },
+        "updated_at": "2021-01-13 13:40:23"
+    },
+    {
+        "id": 2,
+        "payment_method": "paypal",
+        "status": "approved",
+        "amount": 20.00,
+        "user": {
+            "first_name": "Alex",
+            "last_name": "Doe",
+            "vendor": {
+                "paypal_email": "alex@gmail.com"
+            }
+        },
+        "updated_at": "2021-01-14 13:40:23"
+    },
+    {
+        "id": 3,
+        "payment_method": "paypal",
+        "status": "cancelled",
+        "amount": 30.00,
+        "user": {
+            "first_name": "Sven",
+            "last_name": "Doe",
+            "vendor": {
+                "paypal_email": "sven@gmail.com"
+            }
+        },
+        "updated_at": "2021-02-13 08:30:54"
+    },
+    {
+        "id": 4,
+        "payment_method": "paypal",
+        "status": "processing",
+        "amount": 20.00,
+        "user": {
+            "first_name": "John",
+            "last_name": "Doe",
+            "vendor": {
+                "paypal_email": "john@gmail.com"
+            }
+        },
+        "updated_at": "2021-03-1 16:45:48"
+    }
+]

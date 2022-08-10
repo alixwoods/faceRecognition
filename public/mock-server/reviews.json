@@ -1,0 +1,266 @@
+[
+    {
+        "id": 1,
+        "product_id": 1,
+        "author_name": "Maria",
+        "author_email": "maria@gmail.com",
+        "rating": 4,
+        "content": "He really is the cutest little man. Swoooon!",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-03-04 02:25:43",
+        "parent_author_name": null,
+        "product": {
+            "id": 1,
+            "name": "Smart Watches",
+            "min_max_price": [
+                null,
+                null
+            ],
+            "average_rating": 4
+        }
+    },
+    {
+        "id": 2,
+        "product_id": 2,
+        "author_name": "Cobus Bester",
+        "author_email": "cobus@gmail.com",
+        "rating": 4,
+        "content": "Wonderful collection of WooThemes classics! A must buy for all Woo fans.",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 2,
+            "name": "Computer Mouse",
+            "min_max_price": [
+                null,
+                null
+            ],
+            "average_rating": 4
+        }
+    },
+    {
+        "id": 3,
+        "product_id": 3,
+        "author_name": "Cobus Buster",
+        "author_email": "cobus@gmail.com",
+        "rating": 4,
+        "content": "This album proves why The Woo are the best band ever. Best music ever!",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 3,
+            "name": "Laptop Case Bag",
+            "min_max_price": [
+                null,
+                null
+            ],
+            "average_rating": 4.5
+        }
+    },
+    {
+        "id": 4,
+        "product_id": 3,
+        "author_name": "Maria",
+        "author_email": "maria@gmail.com",
+        "rating": 5,
+        "content": "Can’t wait to start mixin’ with this one! Irba-irr-Up-up-up-up-date your theme!",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 3,
+            "name": "Laptop Case Bag",
+            "min_max_price": [
+                null,
+                null
+            ],
+            "average_rating": 4.5
+        }
+    },
+    {
+        "id": 5,
+        "product_id": 4,
+        "author_name": "Joe Doe",
+        "author_email": "joe@gmail.com",
+        "rating": 4,
+        "content": "Great!",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 4,
+            "name": "HD Camera",
+            "min_max_price": [
+                null,
+                null
+            ],
+            "average_rating": 4
+        }
+    },
+    {
+        "id": 6,
+        "product_id": 7,
+        "author_name": "Joe Doe",
+        "author_email": "joe@gmail.com",
+        "rating": 5,
+        "content": "Awesome!",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 7,
+            "name": "Black Grey Headset",
+            "min_max_price": [
+                39,
+                39
+            ],
+            "average_rating": 4.5
+        }
+    },
+    {
+        "id": 7,
+        "product_id": 7,
+        "author_name": "Joe Doe",
+        "author_email": "joe@gmail.com",
+        "rating": 4,
+        "content": "Excellent.",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 7,
+            "name": "Black Grey Headset",
+            "min_max_price": [
+                39,
+                39
+            ],
+            "average_rating": 4.5
+        }
+    },
+    {
+        "id": 8,
+        "product_id": 16,
+        "author_name": "Joe Doe",
+        "author_email": "joe@gmail.com",
+        "rating": 4,
+        "content": "Awesome!",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 16,
+            "name": "Black Gentle Shoes",
+            "min_max_price": [
+                101,
+                111
+            ],
+            "average_rating": 4
+        }
+    },
+    {
+        "id": 9,
+        "product_id": 21,
+        "author_name": "Joe Doe",
+        "author_email": "joe@gmail.com",
+        "rating": 4,
+        "content": "Awesome!",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 21,
+            "name": "Casual Blue Shoes",
+            "min_max_price": [
+                101,
+                108
+            ],
+            "average_rating": 4
+        }
+    },
+    {
+        "id": 10,
+        "product_id": 25,
+        "author_name": "Joe Doe",
+        "author_email": "joe@gmail.com",
+        "rating": 4,
+        "content": "A!!",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 25,
+            "name": "Sport Shoes",
+            "min_max_price": [
+                101,
+                111
+            ],
+            "average_rating": 4
+        }
+    },
+    {
+        "id": 11,
+        "product_id": 35,
+        "author_name": "Cobus Bester",
+        "author_email": "cobus@gmail.com",
+        "rating": 4,
+        "content": "Great!",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 35,
+            "name": "Digital Camera 16x",
+            "min_max_price": [
+                101,
+                111
+            ],
+            "average_rating": 4
+        }
+    },
+    {
+        "id": 12,
+        "product_id": 42,
+        "author_name": "Joe Doe",
+        "author_email": "joe@gmail.com",
+        "rating": 5,
+        "content": "Great",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-01-05 23:58:33",
+        "updated_at": "2021-01-05 23:58:33",
+        "parent_author_name": null,
+        "product": {
+            "id": 42,
+            "name": "1080p Wifi IP Camera",
+            "min_max_price": [
+                null,
+                null
+            ],
+            "average_rating": 5
+        }
+    }
+]

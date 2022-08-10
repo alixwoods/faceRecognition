@@ -1,0 +1,29 @@
+[
+    {
+        "name": "گزارشات",
+        "icon": "bx bx-book",
+        "url": "#",
+        "children": [
+            {
+                "name": "معاملات",
+                "url": "/deals"
+            },
+            {
+                "name": "معوقات",
+                "url": "/handicaps"
+            },
+            {
+                "name": "ماه آنی",
+                "url": "/monthly"
+            },
+            {
+                "name": "قرارداد های فاقد بدهی",
+                "url": "/noLaon"
+            },
+            {
+                "name": "اقساط استمهال شده",
+                "url": "/moratorium"
+            }
+        ]
+    }
+]

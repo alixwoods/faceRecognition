@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "code": "20000129",
+        "description": null,
+        "discount_type": "percent",
+        "amount": 10,
+        "free_shipping": 0,
+        "expiry_date": "2022-01-01",
+        "minimum_spend": 100,
+        "maximum_spend": 1000,
+        "individual_use": 0,
+        "exclude_sale_items": 0,
+        "products": [],
+        "exclude_products": [],
+        "categories": [
+            {
+                "id": 9,
+                "name": "Electronics",
+                "count": 0
+            }
+        ],
+        "exclude_categories": [],
+        "limit_per_coupon": null,
+        "limit_x_items": null,
+        "limit_per_user": null,
+        "allowed_emails": null,
+        "created_at": "2021-03-20 05:27:29",
+        "updated_at": "2021-03-20 05:27:29",
+        "usage": 0
+    },
+    {
+        "id": 2,
+        "code": "12345678",
+        "description": null,
+        "discount_type": "product",
+        "amount": 50,
+        "free_shipping": 0,
+        "expiry_date": null,
+        "minimum_spend": null,
+        "maximum_spend": 1000,
+        "individual_use": 1,
+        "exclude_sale_items": 1,
+        "products": [],
+        "exclude_products": [
+            {
+                "id": 3,
+                "name": "Laptop Case Bag",
+                "min_max_price": [
+                    null,
+                    null
+                ],
+                "average_rating": 4.5
+            },
+            {
+                "id": 5,
+                "name": "Brown Bag",
+                "min_max_price": [
+                    null,
+                    null
+                ],
+                "average_rating": 0
+            }
+        ],
+        "categories": [],
+        "exclude_categories": [],
+        "limit_per_coupon": null,
+        "limit_x_items": null,
+        "limit_per_user": null,
+        "allowed_emails": null,
+        "created_at": "2021-03-20 05:28:27",
+        "updated_at": "2021-03-20 05:28:27",
+        "usage": 0
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "key": "child1",
+        "title": "Child 1",
+        "disabled": false,
+        "isLeaf": true
+    },
+    {
+        "key": "child2",
+        "title": "Child 2",
+        "isLeaf": true
+    }
+]

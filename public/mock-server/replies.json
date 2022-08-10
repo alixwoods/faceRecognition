@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "post_id": 4,
+        "author_name": "Ken Straus",
+        "author_email": "ken@gmail.com",
+        "website": null,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim ornare nisi, vitae mattis nulla ante id dui.",
+        "approved": true,
+        "parent": 0,
+        "created_at": "2021-03-19 22:30:09",
+        "updated_at": "2021-03-19 22:30:09",
+        "parent_author_name": null,
+        "depth": 0,
+        "post": {
+            "id": 4,
+            "title": "Perfect Accessories",
+            "period": "January 1970"
+        }
+    },
+    {
+        "id": 2,
+        "post_id": 4,
+        "author_name": "Ken Straus",
+        "author_email": "ken@gmail.com",
+        "website": null,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae.",
+        "approved": true,
+        "parent": 1,
+        "created_at": "2021-03-19 22:30:20",
+        "updated_at": "2021-03-19 22:30:20",
+        "parent_author_name": "Ken Straus",
+        "depth": 1,
+        "post": {
+            "id": 4,
+            "title": "Perfect Accessories",
+            "period": "January 1970"
+        }
+    }
+]
